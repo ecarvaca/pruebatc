@@ -23,8 +23,8 @@ Una cadena de formato, como se especifica en git-log [1] , que se utilizará par
 
 
 
-ljlkjlkjlkjlkjlkjlkjlkjlkjlklkhlkhlhlkhlkhl
-
+jajajjajaljlkjlkjlkjlkjlkjlkjlkjlkjlklkhlkhlhlkhlkhl
+holaaaaaaaaaa!!!
 
 
 rebase.abbreviateCommands
