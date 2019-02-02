@@ -21,6 +21,12 @@ Si se configura en "advertir", git rebase -i imprimirá una advertencia si se el
 rebase.instructionFormat
 Una cadena de formato, como se especifica en git-log [1] , que se utilizará para la lista de tareas pendientes durante un rebase interactivo. El formato tendrá automáticamente el hash de confirmación largo al formato.
 
+
+
+ljlkjlkjlkjlkjlkjlkjlkjlkjlklkhlkhlhlkhlkhl
+
+
+
 rebase.abbreviateCommands
 Si se establece en verdadero, git rebaseutilizará los nombres de comandos abreviados en la lista de tareas, lo que resultará en algo como esto:
 
